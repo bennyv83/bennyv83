@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on writing API's for Medical Platform that supports healthcare professionals exchange medical information.
+- 🌱 I’m always learning about .NET, Azure, ...
+
 <!--
 **bennyv83/bennyv83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
